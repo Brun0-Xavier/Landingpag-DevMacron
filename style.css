@@ -325,8 +325,17 @@ h2 {
     }
 }
 
-@media (max-width: 600px){
+@media (max-width: 605px){
     body {
-        width: 106%;
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    #sobrenos {
+        width: 300px;
+        font-size: 15px;
     }
 }
